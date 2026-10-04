@@ -1,0 +1,14 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+careercraft.db
+chroma_db/
+
+.pytest_cache/
+.mypy_cache/
+
+*.log
