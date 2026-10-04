@@ -11,6 +11,7 @@ if PROJECT_ROOT not in sys.path:
     sys.path.insert(0, PROJECT_ROOT)
 
 from backend.config import BACKEND_URL
+st.sidebar.write("Backend URL:", BACKEND_URL)
 
 
 st.set_page_config(
