@@ -521,9 +521,10 @@ Paste Job Description
 ------------------------------------------------------------------------
 
 ## 👨‍💻 Author
-### Khushaan Saini
 
-**B.E. Electronics & Computer Engineering**\
-Thapar Institute of Engineering & Technology
+### Ved Prakash
 
-Generative AI • RAG • Python • FastAPI • LangChain • Machine Learning
+**B.Tech Computer Science & Engineering**
+
+Generative AI • Agentic AI • RAG • Python • FastAPI • LangChain • Machine Learning • Streamlit
+
